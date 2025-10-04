@@ -1,0 +1,4 @@
+.env
+embedding_files/
+txt_files/
+__pycache__/
