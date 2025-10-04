@@ -1,4 +1,4 @@
-# 文字嵌入搜尋系統 (Text to Embedding Search System)
+# 文章內容搜尋小工具 (Text to Embedding Search System)
 
 這是一個基於 OpenAI 嵌入模型和 FAISS 向量資料庫的文字搜尋系統，能夠將文字文件轉換為向量嵌入並進行語義搜尋。
 
